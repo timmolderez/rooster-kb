@@ -1,3 +1,4 @@
 rooster-pcb/fp-info-cache
 *.kicad_pcb-bak
 *.sch-bak
+rooster-pcb/*.net
