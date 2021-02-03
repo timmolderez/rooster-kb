@@ -1,9 +1,6 @@
 [submodule "rooster-pcb/libs/keyswitches.pretty"]
 	path = rooster-pcb/libs/keyswitches.pretty
 	url = https://github.com/daprice/keyswitches.pretty.git
-[submodule "rooster-pcb/libs/kicad-lib-arduino"]
-	path = rooster-pcb/libs/kicad-lib-arduino
-	url = https://github.com/g200kg/kicad-lib-arduino.git
 [submodule "rooster-pcb/libs/Keebio-Parts.pretty"]
 	path = rooster-pcb/libs/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
