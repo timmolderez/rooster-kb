@@ -1,5 +1,4 @@
 (fp_lib_table
   (lib (name Keyboard_Switches)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitches.pretty)(options "")(descr ""))
-  (lib (name Arduino)(type KiCad)(uri ${KIPRJMOD}/libs/kicad-lib-arduino/Arduino.pretty)(options "")(descr ""))
   (lib (name Keyboard_Components)(type KiCad)(uri ${KIPRJMOD}/libs/Keebio-Parts.pretty)(options "")(descr ""))
 )

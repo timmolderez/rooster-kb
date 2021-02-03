@@ -1535,5 +1535,5 @@ NoConn ~ 1050 1200
 Text Notes 800  2700 0    79   ~ 0
 Microcontroller board\n(SparkFun Pro Micro or compatible)
 Text Notes 3500 5350 0    79   ~ 0
-Keyboard key matrix
+Key matrix
 $EndSCHEMATC
