@@ -4,3 +4,9 @@
 [submodule "rooster-pcb/libs/kicad-lib-arduino"]
 	path = rooster-pcb/libs/kicad-lib-arduino
 	url = https://github.com/g200kg/kicad-lib-arduino.git
+[submodule "rooster-pcb/libs/Keebio-Parts.pretty"]
+	path = rooster-pcb/libs/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "rooster-pcb/libs/keebio-components"]
+	path = rooster-pcb/libs/keebio-components
+	url = https://github.com/keebio/keebio-components.git

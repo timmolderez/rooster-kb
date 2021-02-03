@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Arduino)(type Legacy)(uri ${KIPRJMOD}/libs/kicad-lib-arduino/Arduino.lib)(options "")(descr ""))
+  (lib (name Keyboard_Components)(type Legacy)(uri ${KIPRJMOD}/libs/keebio-components/keebio.lib)(options "")(descr ""))
 )

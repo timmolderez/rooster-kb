@@ -13,91 +13,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L Arduino:Sparkfun_Pro_Micro U1
-U 1 1 6015F3D8
-P 1600 1700
-F 0 "U1" H 1600 2589 60  0000 C CNN
-F 1 "Sparkfun_Pro_Micro" H 1600 2483 60  0000 C CNN
-F 2 "Arduino:Sparkfun_Pro_Micro" H 1600 1050 60  0001 C CNN
-F 3 "https://www.sparkfun.com/products/12640" H 1700 650 60  0001 C CNN
-	1    1600 1700
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0101
-U 1 1 6016D49B
-P 1000 1300
-F 0 "#PWR0101" H 1000 1050 50  0001 C CNN
-F 1 "GND" V 1005 1172 50  0000 R CNN
-F 2 "" H 1000 1300 50  0001 C CNN
-F 3 "" H 1000 1300 50  0001 C CNN
-	1    1000 1300
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GND #PWR0102
-U 1 1 6016ED65
-P 1000 1400
-F 0 "#PWR0102" H 1000 1150 50  0001 C CNN
-F 1 "GND" V 1005 1272 50  0000 R CNN
-F 2 "" H 1000 1400 50  0001 C CNN
-F 3 "" H 1000 1400 50  0001 C CNN
-	1    1000 1400
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GND #PWR0103
-U 1 1 60170089
-P 2200 1200
-F 0 "#PWR0103" H 2200 950 50  0001 C CNN
-F 1 "GND" V 2205 1072 50  0000 R CNN
-F 2 "" H 2200 1200 50  0001 C CNN
-F 3 "" H 2200 1200 50  0001 C CNN
-	1    2200 1200
-	0    -1   -1   0   
-$EndComp
-$Comp
-L power:+5V #PWR0104
-U 1 1 601759BB
-P 2200 1400
-F 0 "#PWR0104" H 2200 1250 50  0001 C CNN
-F 1 "+5V" V 2215 1528 50  0000 L CNN
-F 2 "" H 2200 1400 50  0001 C CNN
-F 3 "" H 2200 1400 50  0001 C CNN
-	1    2200 1400
-	0    1    1    0   
-$EndComp
-Text GLabel 1000 1200 0    50   Input ~ 0
-COL0
-Text GLabel 1000 1100 0    50   Input ~ 0
-COL1
-Text GLabel 1000 1500 0    50   Input ~ 0
-COL2
-Text GLabel 1000 1600 0    50   Input ~ 0
-COL3
-Text GLabel 1000 1700 0    50   Input ~ 0
-COL4
-Text GLabel 1000 1800 0    50   Input ~ 0
-COL5
-Text GLabel 1000 1900 0    50   Input ~ 0
-COL6
-Text GLabel 1000 2100 0    50   Input ~ 0
-COL8
-Text GLabel 1000 2000 0    50   Input ~ 0
-COL7
-Text GLabel 1000 2200 0    50   Input ~ 0
-COL9
-Text GLabel 2200 2200 2    50   Input ~ 0
-COLA
-Text GLabel 2200 2100 2    50   Input ~ 0
-COLB
-Text GLabel 2200 2000 2    50   Input ~ 0
-ROW0
-Text GLabel 2200 1900 2    50   Input ~ 0
-ROW1
-Text GLabel 2200 1800 2    50   Input ~ 0
-ROW2
 Text GLabel 3250 3000 0    50   Input ~ 0
 ROW1
 Text GLabel 3250 4000 0    50   Input ~ 0
@@ -134,9 +49,9 @@ $EndComp
 Text GLabel 3250 2000 0    50   Input ~ 0
 ROW0
 Text GLabel 11050 1000 1    50   Input ~ 0
-COLB
+COL11
 Text GLabel 10400 1000 1    50   Input ~ 0
-COLA
+COL10
 Text GLabel 9750 1000 1    50   Input ~ 0
 COL9
 Text GLabel 9100 1000 1    50   Input ~ 0
@@ -871,8 +786,6 @@ Wire Wire Line
 	10650 3500 10650 3700
 Text GLabel 3250 5000 0    50   Input ~ 0
 ROW3
-Text GLabel 2200 1700 2    50   Input ~ 0
-ROW3
 $Comp
 L Switch:SW_Push SW3-0
 U 1 1 605E49F0
@@ -1275,12 +1188,6 @@ Wire Wire Line
 Connection ~ 10000 5000
 Text Notes 7350 4600 0    39   ~ 0
 (No SW3-6 here\nbecause SW3-5 \nis the 2U-wide\nspace bar.)
-Text Notes 8000 5500 0    50   ~ 0
-Note: all switches and diodes are named by their row and column.\nFor instance, SW3-7 is the switch in row 3, column 7.
-NoConn ~ 2200 1100
-NoConn ~ 2200 1300
-NoConn ~ 2200 1500
-NoConn ~ 2200 1600
 $Comp
 L Diode:1N4148 D1-7
 U 1 1 60561E58
@@ -1534,4 +1441,99 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6750 
 	1    6750 3850
 	0    -1   -1   0   
 $EndComp
+$Comp
+L Keyboard_Components:ProMicro U1
+U 1 1 601921A6
+P 1750 1650
+F 0 "U1" H 1750 2487 60  0000 C CNN
+F 1 "ProMicro" H 1750 2381 60  0000 C CNN
+F 2 "Keyboard_Components:ArduinoProMicro" V 2800 -850 60  0001 C CNN
+F 3 "" V 2800 -850 60  0001 C CNN
+	1    1750 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0101
+U 1 1 601A002E
+P 2450 1400
+F 0 "#PWR0101" H 2450 1250 50  0001 C CNN
+F 1 "+5V" V 2465 1528 50  0000 L CNN
+F 2 "" H 2450 1400 50  0001 C CNN
+F 3 "" H 2450 1400 50  0001 C CNN
+	1    2450 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 601A0D97
+P 2450 1200
+F 0 "#PWR0102" H 2450 950 50  0001 C CNN
+F 1 "GND" V 2455 1072 50  0000 R CNN
+F 2 "" H 2450 1200 50  0001 C CNN
+F 3 "" H 2450 1200 50  0001 C CNN
+	1    2450 1200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 601A1867
+P 1050 1300
+F 0 "#PWR0103" H 1050 1050 50  0001 C CNN
+F 1 "GND" V 1055 1172 50  0000 R CNN
+F 2 "" H 1050 1300 50  0001 C CNN
+F 3 "" H 1050 1300 50  0001 C CNN
+	1    1050 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 601A22AF
+P 1050 1400
+F 0 "#PWR0104" H 1050 1150 50  0001 C CNN
+F 1 "GND" V 1055 1272 50  0000 R CNN
+F 2 "" H 1050 1400 50  0001 C CNN
+F 3 "" H 1050 1400 50  0001 C CNN
+	1    1050 1400
+	0    1    1    0   
+$EndComp
+Text GLabel 1050 1500 0    50   Input ~ 0
+COL0
+Text GLabel 1050 1600 0    50   Input ~ 0
+COL1
+Text GLabel 1050 1700 0    50   Input ~ 0
+COL2
+Text GLabel 1050 1800 0    50   Input ~ 0
+COL3
+Text GLabel 1050 1900 0    50   Input ~ 0
+ROW0
+Text GLabel 1050 2000 0    50   Input ~ 0
+ROW1
+Text GLabel 1050 2100 0    50   Input ~ 0
+ROW2
+Text GLabel 1050 2200 0    50   Input ~ 0
+ROW3
+Text GLabel 2450 1500 2    50   Input ~ 0
+COL11
+Text GLabel 2450 1600 2    50   Input ~ 0
+COL10
+Text GLabel 2450 1700 2    50   Input ~ 0
+COL9
+Text GLabel 2450 1800 2    50   Input ~ 0
+COL8
+Text GLabel 2450 1900 2    50   Input ~ 0
+COL7
+NoConn ~ 2450 1100
+NoConn ~ 2450 1300
+Text GLabel 2450 2000 2    50   Input ~ 0
+COL6
+Text GLabel 2450 2100 2    50   Input ~ 0
+COL5
+Text GLabel 2450 2200 2    50   Input ~ 0
+COL4
+NoConn ~ 1050 1100
+NoConn ~ 1050 1200
+Text Notes 800  2700 0    79   ~ 0
+Microcontroller board\n(SparkFun Pro Micro or compatible)
+Text Notes 3500 5350 0    79   ~ 0
+Keyboard key matrix
 $EndSCHEMATC
