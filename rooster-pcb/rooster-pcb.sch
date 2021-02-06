@@ -23,7 +23,7 @@ U 1 1 604F65D0
 P 3500 1850
 F 0 "D0-0" V 3546 1770 50  0000 R CNN
 F 1 "1N4148" V 3455 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3500 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3500 1850 50  0001 C CNN
 	1    3500 1850
 	0    -1   -1   0   
@@ -100,7 +100,7 @@ U 1 1 605435F9
 P 4150 1850
 F 0 "D0-1" V 4196 1770 50  0000 R CNN
 F 1 "1N4148" V 4105 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4150 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4150 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4150 1850 50  0001 C CNN
 	1    4150 1850
 	0    -1   -1   0   
@@ -111,7 +111,7 @@ U 1 1 60544D9C
 P 4800 1850
 F 0 "D0-2" V 4846 1770 50  0000 R CNN
 F 1 "1N4148" V 4755 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4800 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4800 1850 50  0001 C CNN
 	1    4800 1850
 	0    -1   -1   0   
@@ -122,7 +122,7 @@ U 1 1 60545871
 P 5450 1850
 F 0 "D0-3" V 5496 1770 50  0000 R CNN
 F 1 "1N4148" V 5405 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5450 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5450 1850 50  0001 C CNN
 	1    5450 1850
 	0    -1   -1   0   
@@ -133,7 +133,7 @@ U 1 1 6054626A
 P 6100 1850
 F 0 "D0-4" V 6146 1770 50  0000 R CNN
 F 1 "1N4148" V 6055 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6100 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 1850 50  0001 C CNN
 	1    6100 1850
 	0    -1   -1   0   
@@ -144,7 +144,7 @@ U 1 1 60546C55
 P 6750 1850
 F 0 "D0-5" V 6796 1770 50  0000 R CNN
 F 1 "1N4148" V 6705 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6750 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6750 1850 50  0001 C CNN
 	1    6750 1850
 	0    -1   -1   0   
@@ -155,7 +155,7 @@ U 1 1 60547796
 P 7400 1850
 F 0 "D0-6" V 7446 1770 50  0000 R CNN
 F 1 "1N4148" V 7355 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7400 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7400 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 1850 50  0001 C CNN
 	1    7400 1850
 	0    -1   -1   0   
@@ -223,7 +223,7 @@ U 1 1 605572D7
 P 3500 2850
 F 0 "D1-0" V 3546 2770 50  0000 R CNN
 F 1 "1N4148" V 3455 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3500 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3500 2850 50  0001 C CNN
 	1    3500 2850
 	0    -1   -1   0   
@@ -234,7 +234,7 @@ U 1 1 60557F4A
 P 4150 2850
 F 0 "D1-1" V 4196 2770 50  0000 R CNN
 F 1 "1N4148" V 4105 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4150 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4150 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4150 2850 50  0001 C CNN
 	1    4150 2850
 	0    -1   -1   0   
@@ -245,7 +245,7 @@ U 1 1 60559A49
 P 4800 2850
 F 0 "D1-2" V 4846 2770 50  0000 R CNN
 F 1 "1N4148" V 4755 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4800 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4800 2850 50  0001 C CNN
 	1    4800 2850
 	0    -1   -1   0   
@@ -278,7 +278,7 @@ U 1 1 6055CF08
 P 5450 2850
 F 0 "D1-3" V 5496 2770 50  0000 R CNN
 F 1 "1N4148" V 5405 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5450 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5450 2850 50  0001 C CNN
 	1    5450 2850
 	0    -1   -1   0   
@@ -300,7 +300,7 @@ U 1 1 6055EAAE
 P 6100 2850
 F 0 "D1-4" V 6146 2770 50  0000 R CNN
 F 1 "1N4148" V 6055 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6100 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 2850 50  0001 C CNN
 	1    6100 2850
 	0    -1   -1   0   
@@ -322,7 +322,7 @@ U 1 1 60560252
 P 6750 2850
 F 0 "D1-5" V 6796 2770 50  0000 R CNN
 F 1 "1N4148" V 6705 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6750 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6750 2850 50  0001 C CNN
 	1    6750 2850
 	0    -1   -1   0   
@@ -344,7 +344,7 @@ U 1 1 60561E14
 P 7400 2850
 F 0 "D1-6" V 7446 2770 50  0000 R CNN
 F 1 "1N4148" V 7355 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7400 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7400 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 2850 50  0001 C CNN
 	1    7400 2850
 	0    -1   -1   0   
@@ -377,7 +377,7 @@ U 1 1 60561E6C
 P 8700 2850
 F 0 "D1-8" V 8746 2770 50  0000 R CNN
 F 1 "1N4148" V 8655 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8700 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8700 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8700 2850 50  0001 C CNN
 	1    8700 2850
 	0    -1   -1   0   
@@ -399,7 +399,7 @@ U 1 1 605713F6
 P 10650 2850
 F 0 "D1-11" V 10696 2770 50  0000 R CNN
 F 1 "1N4148" V 10605 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10650 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10650 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10650 2850 50  0001 C CNN
 	1    10650 2850
 	0    -1   -1   0   
@@ -524,7 +524,7 @@ U 1 1 605B20CE
 P 3500 3850
 F 0 "D2-0" V 3546 3770 50  0000 R CNN
 F 1 "1N4148" V 3455 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3500 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3500 3850 50  0001 C CNN
 	1    3500 3850
 	0    -1   -1   0   
@@ -548,7 +548,7 @@ U 1 1 605B5C3E
 P 4150 3850
 F 0 "D2-1" V 4196 3770 50  0000 R CNN
 F 1 "1N4148" V 4105 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4150 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4150 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4150 3850 50  0001 C CNN
 	1    4150 3850
 	0    -1   -1   0   
@@ -572,7 +572,7 @@ U 1 1 605B91AC
 P 4800 3850
 F 0 "D2-2" V 4846 3770 50  0000 R CNN
 F 1 "1N4148" V 4755 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4800 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4800 3850 50  0001 C CNN
 	1    4800 3850
 	0    -1   -1   0   
@@ -596,7 +596,7 @@ U 1 1 605B91C1
 P 5450 3850
 F 0 "D2-3" V 5496 3770 50  0000 R CNN
 F 1 "1N4148" V 5405 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5450 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5450 3850 50  0001 C CNN
 	1    5450 3850
 	0    -1   -1   0   
@@ -620,7 +620,7 @@ U 1 1 605BE5A2
 P 6100 3850
 F 0 "D2-4" V 6146 3770 50  0000 R CNN
 F 1 "1N4148" V 6055 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6100 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 3850 50  0001 C CNN
 	1    6100 3850
 	0    -1   -1   0   
@@ -657,7 +657,7 @@ U 1 1 605BE5CC
 P 7400 3850
 F 0 "D2-6" V 7446 3770 50  0000 R CNN
 F 1 "1N4148" V 7355 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7400 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7400 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7400 3850 50  0001 C CNN
 	1    7400 3850
 	0    -1   -1   0   
@@ -681,7 +681,7 @@ U 1 1 605BE5E1
 P 8050 3850
 F 0 "D2-7" V 8096 3770 50  0000 R CNN
 F 1 "1N4148" V 8005 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8050 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8050 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8050 3850 50  0001 C CNN
 	1    8050 3850
 	0    -1   -1   0   
@@ -705,7 +705,7 @@ U 1 1 605D892E
 P 8700 3850
 F 0 "D2-8" V 8746 3770 50  0000 R CNN
 F 1 "1N4148" V 8655 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8700 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8700 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8700 3850 50  0001 C CNN
 	1    8700 3850
 	0    -1   -1   0   
@@ -729,7 +729,7 @@ U 1 1 605D8943
 P 9350 3850
 F 0 "D2-9" V 9396 3770 50  0000 R CNN
 F 1 "1N4148" V 9305 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9350 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9350 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9350 3850 50  0001 C CNN
 	1    9350 3850
 	0    -1   -1   0   
@@ -753,7 +753,7 @@ U 1 1 605D8958
 P 10000 3850
 F 0 "D2-10" V 10046 3770 50  0000 R CNN
 F 1 "1N4148" V 9955 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10000 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10000 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10000 3850 50  0001 C CNN
 	1    10000 3850
 	0    -1   -1   0   
@@ -777,7 +777,7 @@ U 1 1 605D896D
 P 10650 3850
 F 0 "D2-11" V 10696 3770 50  0000 R CNN
 F 1 "1N4148" V 10605 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10650 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10650 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10650 3850 50  0001 C CNN
 	1    10650 3850
 	0    -1   -1   0   
@@ -803,7 +803,7 @@ U 1 1 605E4A0C
 P 3500 4850
 F 0 "D3-0" V 3546 4770 50  0000 R CNN
 F 1 "1N4148" V 3455 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3500 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3500 4850 50  0001 C CNN
 	1    3500 4850
 	0    -1   -1   0   
@@ -827,7 +827,7 @@ U 1 1 605E4A21
 P 4150 4850
 F 0 "D3-1" V 4196 4770 50  0000 R CNN
 F 1 "1N4148" V 4105 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4150 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4150 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4150 4850 50  0001 C CNN
 	1    4150 4850
 	0    -1   -1   0   
@@ -851,7 +851,7 @@ U 1 1 605E4A36
 P 4800 4850
 F 0 "D3-2" V 4846 4770 50  0000 R CNN
 F 1 "1N4148" V 4755 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4800 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4800 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4800 4850 50  0001 C CNN
 	1    4800 4850
 	0    -1   -1   0   
@@ -875,7 +875,7 @@ U 1 1 605E4A4B
 P 5450 4850
 F 0 "D3-3" V 5496 4770 50  0000 R CNN
 F 1 "1N4148" V 5405 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5450 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5450 4850 50  0001 C CNN
 	1    5450 4850
 	0    -1   -1   0   
@@ -899,7 +899,7 @@ U 1 1 605E4A60
 P 6100 4850
 F 0 "D3-4" V 6146 4770 50  0000 R CNN
 F 1 "1N4148" V 6055 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6100 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 4850 50  0001 C CNN
 	1    6100 4850
 	0    -1   -1   0   
@@ -923,7 +923,7 @@ U 1 1 605E4A75
 P 6750 4850
 F 0 "D3-5" V 6796 4770 50  0000 R CNN
 F 1 "1N4148" V 6705 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6750 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6750 4850 50  0001 C CNN
 	1    6750 4850
 	0    -1   -1   0   
@@ -947,7 +947,7 @@ U 1 1 605E4A9F
 P 8050 4850
 F 0 "D3-7" V 8096 4770 50  0000 R CNN
 F 1 "1N4148" V 8005 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8050 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8050 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8050 4850 50  0001 C CNN
 	1    8050 4850
 	0    -1   -1   0   
@@ -971,7 +971,7 @@ U 1 1 605E4AB4
 P 8700 4850
 F 0 "D3-8" V 8746 4770 50  0000 R CNN
 F 1 "1N4148" V 8655 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8700 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8700 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8700 4850 50  0001 C CNN
 	1    8700 4850
 	0    -1   -1   0   
@@ -995,7 +995,7 @@ U 1 1 605E4AC9
 P 9350 4850
 F 0 "D3-9" V 9396 4770 50  0000 R CNN
 F 1 "1N4148" V 9305 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9350 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9350 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9350 4850 50  0001 C CNN
 	1    9350 4850
 	0    -1   -1   0   
@@ -1019,7 +1019,7 @@ U 1 1 605E4ADE
 P 10000 4850
 F 0 "D3-10" V 10046 4770 50  0000 R CNN
 F 1 "1N4148" V 9955 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10000 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10000 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10000 4850 50  0001 C CNN
 	1    10000 4850
 	0    -1   -1   0   
@@ -1043,7 +1043,7 @@ U 1 1 605E4AF3
 P 10650 4850
 F 0 "D3-11" V 10696 4770 50  0000 R CNN
 F 1 "1N4148" V 10605 4770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10650 4675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10650 4675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10650 4850 50  0001 C CNN
 	1    10650 4850
 	0    -1   -1   0   
@@ -1194,7 +1194,7 @@ U 1 1 60561E58
 P 8050 2850
 F 0 "D1-7" V 8096 2770 50  0000 R CNN
 F 1 "1N4148" V 8005 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8050 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8050 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8050 2850 50  0001 C CNN
 	1    8050 2850
 	0    -1   -1   0   
@@ -1205,7 +1205,7 @@ U 1 1 605713B2
 P 10000 2850
 F 0 "D1-10" V 10046 2770 50  0000 R CNN
 F 1 "1N4148" V 9955 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10000 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10000 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10000 2850 50  0001 C CNN
 	1    10000 2850
 	0    -1   -1   0   
@@ -1227,7 +1227,7 @@ U 1 1 60561E80
 P 9350 2850
 F 0 "D1-9" V 9396 2770 50  0000 R CNN
 F 1 "1N4148" V 9305 2770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9350 2675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9350 2675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9350 2850 50  0001 C CNN
 	1    9350 2850
 	0    -1   -1   0   
@@ -1249,7 +1249,7 @@ U 1 1 6054817F
 P 8050 1850
 F 0 "D0-7" V 8096 1770 50  0000 R CNN
 F 1 "1N4148" V 8005 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8050 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8050 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8050 1850 50  0001 C CNN
 	1    8050 1850
 	0    -1   -1   0   
@@ -1260,7 +1260,7 @@ U 1 1 60548AC5
 P 8700 1850
 F 0 "D0-8" V 8746 1770 50  0000 R CNN
 F 1 "1N4148" V 8655 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8700 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8700 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8700 1850 50  0001 C CNN
 	1    8700 1850
 	0    -1   -1   0   
@@ -1271,7 +1271,7 @@ U 1 1 60549309
 P 9350 1850
 F 0 "D0-9" V 9396 1770 50  0000 R CNN
 F 1 "1N4148" V 9305 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9350 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 9350 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9350 1850 50  0001 C CNN
 	1    9350 1850
 	0    -1   -1   0   
@@ -1282,7 +1282,7 @@ U 1 1 60549CA3
 P 10000 1850
 F 0 "D0-10" V 10046 1770 50  0000 R CNN
 F 1 "1N4148" V 9955 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10000 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10000 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10000 1850 50  0001 C CNN
 	1    10000 1850
 	0    -1   -1   0   
@@ -1293,7 +1293,7 @@ U 1 1 6054A5B5
 P 10650 1850
 F 0 "D0-11" V 10696 1770 50  0000 R CNN
 F 1 "1N4148" V 10605 1770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 10650 1675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 10650 1675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10650 1850 50  0001 C CNN
 	1    10650 1850
 	0    -1   -1   0   
@@ -1436,7 +1436,7 @@ U 1 1 605BE5B7
 P 6750 3850
 F 0 "D2-5" V 6796 3770 50  0000 R CNN
 F 1 "1N4148" V 6705 3770 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6750 3675 50  0001 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6750 3675 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6750 3850 50  0001 C CNN
 	1    6750 3850
 	0    -1   -1   0   
@@ -1461,39 +1461,6 @@ F 1 "+5V" V 2465 1528 50  0000 L CNN
 F 2 "" H 2450 1400 50  0001 C CNN
 F 3 "" H 2450 1400 50  0001 C CNN
 	1    2450 1400
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GND #PWR0102
-U 1 1 601A0D97
-P 2450 1200
-F 0 "#PWR0102" H 2450 950 50  0001 C CNN
-F 1 "GND" V 2455 1072 50  0000 R CNN
-F 2 "" H 2450 1200 50  0001 C CNN
-F 3 "" H 2450 1200 50  0001 C CNN
-	1    2450 1200
-	0    -1   -1   0   
-$EndComp
-$Comp
-L power:GND #PWR0103
-U 1 1 601A1867
-P 1050 1300
-F 0 "#PWR0103" H 1050 1050 50  0001 C CNN
-F 1 "GND" V 1055 1172 50  0000 R CNN
-F 2 "" H 1050 1300 50  0001 C CNN
-F 3 "" H 1050 1300 50  0001 C CNN
-	1    1050 1300
-	0    1    1    0   
-$EndComp
-$Comp
-L power:GND #PWR0104
-U 1 1 601A22AF
-P 1050 1400
-F 0 "#PWR0104" H 1050 1150 50  0001 C CNN
-F 1 "GND" V 1055 1272 50  0000 R CNN
-F 2 "" H 1050 1400 50  0001 C CNN
-F 3 "" H 1050 1400 50  0001 C CNN
-	1    1050 1400
 	0    1    1    0   
 $EndComp
 Text GLabel 1050 1500 0    50   Input ~ 0
@@ -1536,4 +1503,17 @@ Text Notes 800  2700 0    79   ~ 0
 Microcontroller board\n(SparkFun Pro Micro or compatible)
 Text Notes 3500 5350 0    79   ~ 0
 Key matrix
+NoConn ~ 1050 1300
+NoConn ~ 1050 1400
+$Comp
+L power:GND #PWR0102
+U 1 1 601F22DC
+P 2450 1200
+F 0 "#PWR0102" H 2450 950 50  0001 C CNN
+F 1 "GND" V 2455 1072 50  0000 R CNN
+F 2 "" H 2450 1200 50  0001 C CNN
+F 3 "" H 2450 1200 50  0001 C CNN
+	1    2450 1200
+	0    -1   -1   0   
+$EndComp
 $EndSCHEMATC
