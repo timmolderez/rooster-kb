@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name Keyboard_Switches)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitches.pretty)(options "")(descr ""))
   (lib (name Keyboard_Components)(type KiCad)(uri ${KIPRJMOD}/libs/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name Rooster_Graphics)(type KiCad)(uri ${KIPRJMOD}/libs/rooster-graphics.pretty)(options "")(descr ""))
 )
